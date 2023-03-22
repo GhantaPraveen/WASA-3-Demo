@@ -7,6 +7,7 @@ public class SampleTest {
 	public void sample()
 	{
 		System.out.println("sample successfully");
+		//pushed
 	}
 
 }
